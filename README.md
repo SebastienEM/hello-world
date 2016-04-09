@@ -1,2 +1,4 @@
 # hello-world
-Git's "Hello world!" tutorial
+Github's "Hello world!" tutorial
+
+Coming next, awesome NodeJS applications!
